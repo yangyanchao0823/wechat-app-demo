@@ -1,0 +1,224 @@
+ <view class='header'>
+        <view class='hedtop'>
+          下级代理可提现收益
+        </view>
+        <view class='topjine'>
+        4389.36
+        </view>
+        <view class='toptixian'>
+        点击提现
+        </view>
+      </view>
+      <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+            <view class='scroll scrollx bor'>
+              <view class='mycp'>
+               彩票销售额
+              </view>
+              <view class='mycp'>
+             54867.00
+              </view>
+            </view>
+            <view class='scroll scrollx'>
+              <view class='mycp'>
+                销售总收益
+              </view>
+              <view class='mycp'>
+                4389.36
+              </view>
+            </view>
+            
+      </view>
+      
+      <view class='flex_top' style='height:300px;flex-direction:column'>
+            <view>
+               <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/qilecai.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>收益</view>
+                      <view class='scroll2 sright mysy'>+8.00</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>40080117郑州奥斯卡</view>
+                      <view class='scroll2 sright'>100.0</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>2018-03-28</view>
+                    </view>
+                  </view>
+              </view>
+              
+               <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/shuangseqiu.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>收益</view>
+                      <view class='scroll2 sright mysy'>+0.16</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>40080117郑州奥斯卡</view>
+                      <view class='scroll2 sright'>4.0</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>2018-03-28</view>
+                    </view>
+                  </view>
+              </view>
+
+               <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/3D.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>收益</view>
+                      <view class='scroll2 sright mysy'>+0.8</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>40080117郑州奥斯卡</view>
+                      <view class='scroll2 sright'>10.0</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>2018-03-28</view>
+                    </view>
+                  </view>
+              </view>
+
+              <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/kuai3.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>收益</view>
+                      <view class='scroll2 sright mysy'>+0.16</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>40080117郑州奥斯卡</view>
+                      <view class='scroll2 sright'>4.0</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>2018-03-28</view>
+                    </view>
+                  </view>
+              </view>
+
+              <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/qilecai.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>收益</view>
+                      <view class='scroll2 sright mysy'>+0.16</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>40080117郑州奥斯卡</view>
+                      <view class='scroll2 sright'>4.0</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>2018-03-28</view>
+                    </view>
+                  </view>
+              </view>
+
+              <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/qilecai.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>收益</view>
+                      <view class='scroll2 sright mysy'>+0.16</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>40080117郑州奥斯卡</view>
+                      <view class='scroll2 sright'>4.0</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>2018-03-28</view>
+                    </view>
+                  </view>
+              </view>
+
+              <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/qilecai.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>收益</view>
+                      <view class='scroll2 sright mysy'>+0.16</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>40080117郑州奥斯卡</view>
+                      <view class='scroll2 sright'>4.0</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>2018-03-28</view>
+                    </view>
+                  </view>
+              </view>
+
+              <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/qilecai.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>收益</view>
+                      <view class='scroll2 sright mysy'>+0.16</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>40080117郑州奥斯卡</view>
+                      <view class='scroll2 sright'>4.0</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>2018-03-28</view>
+                    </view>
+                  </view>
+              </view>
+
+              <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/qilecai.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>收益</view>
+                      <view class='scroll2 sright mysy'>+0.16</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>40080117郑州奥斯卡</view>
+                      <view class='scroll2 sright'>4.0</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>2018-03-28</view>
+                    </view>
+                  </view>
+              </view>
+
+               <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/shuangseqiu.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>收益</view>
+                      <view class='scroll2 sright mysy'>+0.16</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>40080117郑州奥斯卡</view>
+                      <view class='scroll2 sright'>4.0</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>2018-03-28</view>
+                    </view>
+                  </view>
+              </view>
+            </view>
+      </view>

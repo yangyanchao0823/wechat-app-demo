@@ -1,0 +1,249 @@
+<view>
+<view class='disc flex_top'>
+            <input class='inp' type='text' placeholder='请输入搜索内容'></input>
+            <button class='btn'>搜索</button>
+      </view>
+      
+      <view class='header'>
+        <view class='hedtop'>
+          下级分润可用余额
+        </view>
+        <view class='topjine'>
+        4389.36
+        </view>
+        <view class='toptixian'>
+        点击提现
+        </view>
+      </view>
+      <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+            <view class='scroll scrollx bor'>
+              <view class='mycp'>
+               下级彩票销售额
+              </view>
+              <view class='mycp'>
+             54867.00
+              </view>
+            </view>
+            <view class='scroll scrollx'>
+              <view class='mycp'>
+                下级销售总收益
+              </view>
+              <view class='mycp'>
+                4389.36
+              </view>
+            </view>
+            
+      </view>
+<navigator url="../xiangxi/xiangxi">
+ <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/shuangseqiu.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>张晓明</view>
+                      <view class='scroll2 sright mysy'>15093396391</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>商丘市夏邑县代理</view>
+                      <view class='scroll2 sright'></view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>加入时间</view>
+                      <view class='scroll2 sright'>2018-03-28</view>
+                    </view>
+                  </view>
+ </view>
+ </navigator>
+  <navigator url="../xiangxi/xiangxi">
+ <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/shuangseqiu.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>张晓明</view>
+                      <view class='scroll2 sright mysy'>15093396391</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>商丘市夏邑县代理</view>
+                      <view class='scroll2 sright'></view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>加入时间</view>
+                      <view class='scroll2 sright'>2018-03-28</view>
+                    </view>
+                  </view>
+ </view>
+ </navigator>
+ <navigator url="../xiangxi/xiangxi">
+ <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/shuangseqiu.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>张晓明</view>
+                      <view class='scroll2 sright mysy'>15093396391</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>商丘市夏邑县代理</view>
+                      <view class='scroll2 sright'></view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>加入时间</view>
+                      <view class='scroll2 sright'>2018-03-28</view>
+                    </view>
+                  </view>
+ </view>
+ </navigator>
+ <navigator url="../xiangxi/xiangxi">
+ <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/shuangseqiu.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>张晓明</view>
+                      <view class='scroll2 sright mysy'>15093396391</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>商丘市夏邑县代理</view>
+                      <view class='scroll2 sright'></view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>加入时间</view>
+                      <view class='scroll2 sright'>2018-03-28</view>
+                    </view>
+                  </view>
+ </view>
+ </navigator>
+ <navigator url="../xiangxi/xiangxi">
+ <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/shuangseqiu.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>张晓明</view>
+                      <view class='scroll2 sright mysy'>15093396391</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>商丘市夏邑县代理</view>
+                      <view class='scroll2 sright'></view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>加入时间</view>
+                      <view class='scroll2 sright'>2018-03-28</view>
+                    </view>
+                  </view>
+ </view>
+ </navigator>
+ <navigator url="../xiangxi/xiangxi">
+ <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/shuangseqiu.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>张晓明</view>
+                      <view class='scroll2 sright mysy'>15093396391</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>商丘市夏邑县代理</view>
+                      <view class='scroll2 sright'></view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>加入时间</view>
+                      <view class='scroll2 sright'>2018-03-28</view>
+                    </view>
+                  </view>
+ </view>
+ </navigator>
+ <navigator url="../xiangxi/xiangxi">
+ <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/shuangseqiu.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>张晓明</view>
+                      <view class='scroll2 sright mysy'>15093396391</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>商丘市夏邑县代理</view>
+                      <view class='scroll2 sright'></view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>加入时间</view>
+                      <view class='scroll2 sright'>2018-03-28</view>
+                    </view>
+                  </view>
+ </view>
+ </navigator>
+ <navigator url="../xiangxi/xiangxi">
+ <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/shuangseqiu.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>张晓明</view>
+                      <view class='scroll2 sright mysy'>15093396391</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>商丘市夏邑县代理</view>
+                      <view class='scroll2 sright'></view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>加入时间</view>
+                      <view class='scroll2 sright'>2018-03-28</view>
+                    </view>
+                  </view>
+ </view>
+ </navigator>
+ <navigator url="../xiangxi/xiangxi">
+ <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/shuangseqiu.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>张晓明</view>
+                      <view class='scroll2 sright mysy'>15093396391</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>商丘市夏邑县代理</view>
+                      <view class='scroll2 sright'></view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>加入时间</view>
+                      <view class='scroll2 sright'>2018-03-28</view>
+                    </view>
+                  </view>
+ </view>
+ </navigator>
+ <navigator url="../xiangxi/xiangxi">
+ <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                    <image mode='widthFix' style="width:100%" src='http://www.sstss.cn/mobile/weixin/img/shuangseqiu.png'></image>
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>张晓明</view>
+                      <view class='scroll2 sright mysy'>15093396391</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>商丘市夏邑县代理</view>
+                      <view class='scroll2 sright'></view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>加入时间</view>
+                      <view class='scroll2 sright'>2018-03-28</view>
+                    </view>
+                  </view>
+ </view>
+ </navigator>
+ 
+</view>
+

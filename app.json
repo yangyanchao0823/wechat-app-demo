@@ -1,0 +1,40 @@
+{
+  "pages":[
+    "pages/login/login",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/home/home",
+    "pages/jilu/jilu",
+    "pages/lianxiwomen/lianxiwomen",
+    "pages/xiangxi/xiangxi"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#FE4B4B",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "捷步管理系统"
+   
+  },
+    "tabBar": {
+      "selectedColor": "#FE4B4B",
+      "list": [
+        {
+          "pagePath": "pages/index/index",
+          "text": "首页",
+          "iconPath": "imgs/shouye.png",
+          "selectedIconPath": "imgs/shouye1.png"
+        },
+        {
+          "pagePath": "pages/home/home",
+          "text": "下级",
+          "iconPath": "imgs/xiaji.png",
+          "selectedIconPath": "imgs/xiaji1.png"
+        },
+        {
+          "pagePath": "pages/logs/logs",
+          "text": "我的",
+          "iconPath": "imgs/wode.png",
+          "selectedIconPath": "imgs/wode1.png"
+        }
+      ]
+    }
+}

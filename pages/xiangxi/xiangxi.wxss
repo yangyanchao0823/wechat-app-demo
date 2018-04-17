@@ -1,0 +1,145 @@
+.disc{
+  background-color:pink;
+  font-size: 18px;
+  padding: 10px;
+  height: 40px; 
+}
+.flex_top{
+  display: flex;
+  background-color: #FE4B4B;
+}
+.flex_top2{
+  display: flex;
+  background-color: #ccc;
+}
+.flex_top_top1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid orange;
+  width: 400px;
+  height: 100px;
+}
+.bc_p{
+  background-color: firebrick;
+}
+.bc_n{
+  background-color: forestgreen;
+}
+.bc_k{
+  background-color: gold;
+}
+.inp{
+  margin-right: 10px;
+  width: 80%;
+  background-color: white;
+  border-radius:5px; 
+  text-align: center;
+}
+.btn{
+  width: 20%;
+  height: 28px;
+  line-height: 28px;
+  background-color:#FE4B4B;
+  color: white;
+  border: 1px solid #FE4B4B;
+}
+.desc{
+  background-color: cyan;
+  color: lightgoldenrodyellow;
+  padding: 10px;
+  height: 30px;
+}
+.myscroll{
+  height: 240px;
+
+}
+.scrolly{
+  height: 300px;
+}
+.scrollx{
+  width: 50%;
+  display: inline-block;
+  padding-top:10px; 
+  padding-bottom:10px; 
+}
+.scroll{
+  background-color:#f96161;
+  color: white;
+  display: inline-block;
+}
+.scroll2{
+  display: inline-block;
+}
+
+.mycp{
+  text-align: center;
+  size: 14px;
+}
+.swiper{
+  height: 100px
+}
+.red{
+color: black;
+
+}
+.pink{
+  background-color: pink;
+}
+.header{
+  background-color: #FE4B4B;
+  color: white;
+  padding-bottom:15px; 
+ }
+.hedtop{
+  width: 50%;
+  text-align: center;
+  color: #fdd0d0;
+  line-height: 20px;
+  font-size: 16px;
+  margin: 0 auto;
+}
+.topjine{
+  font-size: 30px;
+  line-height: 14px;
+  margin-top:15px;
+  text-align: center; 
+  padding-bottom: 15px;
+}
+.toptixian{
+  text-align: center; 
+}
+.bor{
+  border-right: 1px solid #ccc;
+}
+.lsleft{
+  width: 60px;
+  height: 60%;
+  display: inline-block;
+  padding-top:10px; 
+  padding-bottom:10px; 
+}
+.lsleft2{
+  width: 80%;
+  height: 60%;
+  display: inline-block;
+  padding-top:10px; 
+  padding-bottom:10px; 
+}
+.myxs{
+  background-color:white; 
+  border-bottom: 1px solid #eee; 
+}
+.myxs2{
+  background-color:white; 
+ 
+}
+.sright{
+ float: right;
+}
+.mysy{
+  color: red;
+}
+.myzd{
+  size: 10rpx;
+}

@@ -1,0 +1,106 @@
+ <view class='header'>
+        <view class='hedtop'>
+          余额
+        </view>
+        <view class='topjine'>
+        4389.36
+        </view>
+        <view class='toptixian'>
+        点击提现
+        </view>
+      </view>
+      <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+            <view class='scroll scrollx bor'>
+              <view class='mycp'>
+               支出
+              </view>
+              <view class='mycp'>
+             54867.00
+              </view>
+            </view>
+            <view class='scroll scrollx'>
+              <view class='mycp'>
+                收入
+              </view>
+              <view class='mycp'>
+                14389.36
+              </view>
+            </view>
+            
+      </view>
+<view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>张晓明</view>
+                      <view class='scroll2 sright mysy'>-300.00</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>商丘市夏邑县代理</view>
+                      <view class='scroll2 sright'>15093396391</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>转账时间</view>
+                      <view class='scroll2 sright'>2018-03-28</view>
+                    </view>
+                  </view>
+ </view>
+ <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>捷步科技</view>
+                      <view class='scroll2 sright mysy'>+666.00</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>河南捷步科技有限公司</view>
+                      <view class='scroll2 sright'>15093396391</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>转账时间</view>
+                      <view class='scroll2 sright'>2018-03-28</view>
+                    </view>
+                  </view>
+ </view>
+  <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>捷步科技</view>
+                      <view class='scroll2 sright mysy'>+666.00</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>河南捷步科技有限公司</view>
+                      <view class='scroll2 sright'>15093396391</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>转账时间</view>
+                      <view class='scroll2 sright'>2018-03-28</view>
+                    </view>
+                  </view>
+ </view>
+  <view class='myxs' style='hegiht:240px;white-space:nowrap'>
+                  <view class='lsleft'>
+                
+                  </view>
+                  <view class='lsleft2'>
+                    <view class='myxs2'>
+                      <view class='scroll2'>捷步科技</view>
+                      <view class='scroll2 sright mysy'>+666.00</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2 myzd'>河南捷步科技有限公司</view>
+                      <view class='scroll2 sright'>15093396391</view>
+                    </view>
+                    <view class='myxs2'>
+                      <view class='scroll2'>转账时间</view>
+                      <view class='scroll2 sright'>2018-03-28</view>
+                    </view>
+                  </view>
+ </view>
